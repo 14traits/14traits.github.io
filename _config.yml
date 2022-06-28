@@ -68,7 +68,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021, 2022. All rights reserved.
+copyright:             © 2021. All rights reserved.
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
@@ -367,7 +367,7 @@ plugins:
 #   name:                <firstname> <lastname>
 #   links:
 #     - https://twitter.com/<username>
-#     - https://github.com/14traits
+#     - https://github.com/<username>
 
 
 # Plugin Configs
