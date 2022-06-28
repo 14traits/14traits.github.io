@@ -20,7 +20,7 @@ url:                   https://14traits.github.io
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 The learning of things
+title:                 John Rogers
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -28,7 +28,7 @@ description:           >
   This is a blog focused on the learnings of one developer over time.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Software Engineer
 
 # A list of keywords for your blog
 keywords:              []
@@ -41,8 +41,8 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                John Rogers
+  email:               john.deja.vu.rogers@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
