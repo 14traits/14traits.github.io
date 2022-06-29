@@ -6,8 +6,8 @@ basics:
   label: "Software Engineer"
   picture: "./assets/img/240avatar.png"
   email: "john.deja.vu.rogers@gmail.com"
-  phone: "(847) 406-0663"
-  website: "https://piedpiper.com"
+#  phone: "(847) 406-0663"
+  website: "https://14traits.github.io"
   summary: >
     Richard hails from Tulsa.
     He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
