@@ -5,7 +5,7 @@ sitemap: false
 cover: true
 ---
 
-I am DevSecOps Engineer with a demonstrated history of cloud deployments to AWS for the Dept of Defense. Security+ Certified. Certified BlackBelt in DoDAF Enterprise Architecture. Well versed in understanding operational requirements and explaining IT solutions and architecture to people with diverse backgrounds from IT. Over 20 years of Leadership skills and formal training, with strengths in Analysis, Coaching, Team Building, Public Speaking, and developing collaborative solutions.
+Hello, my name is John and I am US Marine Corps Veteran. Since leaving the service I am a Software Engineering and am currently focused on developing the DevSecOps culture within USMEPCOM. I have demonstrated history of cloud deployments to AWS GovCloud for the Dept of Defense. I am Security+ Certified, and a Certified BlackBelt in DoDAF Enterprise Architecture. I am well versed in understanding operational requirements and explaining IT solutions and architecture to people with diverse backgrounds. I also have over 20 years of Leadership skills and formal training, with strengths in Analysis, Coaching, Team Building, Public Speaking, and developing collaborative solutions.
 
 ## First Steps
 
