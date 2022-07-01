@@ -1,11 +1,16 @@
 ---
 layout: page
-title: Welcome!
+title: Thank You!
 sitemap: false
 cover: true
 ---
 
-I am DevSecOps Engineer with a demonstrated history of cloud deployments to AWS for the Dept of Defense. Security+ Certified. Certified BlackBelt in DoDAF Enterprise Architecture. Well versed in understanding operational requirements and explaining IT solutions and architecture to people with diverse backgrounds from IT. Over 20 years of Leadership skills and formal training, with strengths in Analysis, Coaching, Team Building, Public Speaking, and developing collaborative solutions.
+Thank you for buying the PRO version of Hydejack! 🎉
+
+More than one year ago I was looking for a blogging platform but couldn't find it:
+One that would let me write posts in markdown with my own editor,
+one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
+That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
 
 ## First Steps
 
