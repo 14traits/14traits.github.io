@@ -26,15 +26,24 @@ basics:
       username: "john-e-rogers"
       url: ""
 work:
-  - company: "US MEPCOM"
+  - company: "USMEPCOM"
     position: "DevSecOps Branch Cheif"
     website: "https://www.mepcom.army.mil"
-    startDate: "2015-11-15"
+    startDate: "2021-05-21"
     endDate: ""
     summary: >
       The United States Military Entrance Processing Command is a Major Command of the U.S. Department of Defense, which primarily screens and processes enlisted personnel applicants into the United States Armed Forces.
     highlights:
-      - "Refactored AWS RDS usage of the biometrics subsystem of USMIRS 1.1, saving USMEPCOM a projected cost avoidance of $369,114 annualy in the operations budget."
+      - "Reduced the utilization of AWS RDS services on the biometrics subsystem of USMIRS 1.1, saving USMEPCOM a projected cost avoidance of $369,114 annualy in the operations budget."
+      - "Responsible for leading a culture change within our emerging operations division to a DevSecOps focused culture."
+  - company: "USMEPCOM"
+    position: "Team Lead System Development Branch"
+    website: "https://www.mepcom.army.mil"
+    startDate: "2019-06-15"
+    endDate: "2021-05-20"
+    summary: >
+      The United States Military Entrance Processing Command is a Major Command of the U.S. Department of Defense, which primarily screens and processes enlisted personnel applicants into the United States Armed Forces.
+    highlights:
       - "Lead a DevOps Team to accomplish two, first-time events for USMEPCOM in Cloud Computing. The first Government Employee deployment of a full network in the Cloud, and the Commands first Automated Deployment of an entire system and network"
       - "Solely responsible for modifying and authoring the Infrastructure as Code (IAC) in Terraform that deployed the first fully automated deployment on-prem or in the cloud of an entire network and systems for USMEPCOM."
 # volunteer:
