@@ -9,72 +9,64 @@ basics:
 #  phone: "(847) 406-0663"
   website: "https://14traits.github.io"
   summary: >
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
+    John hails from Kansas City MO, and is a US Marine Corps Veteran!
+    He has earned his degree from Campbell University. 
+    I am a Software Engineering who is currently leading a team of engineers focused on developing the DevSecOps culture within USMEPCOM. I have a demonstrated history of cloud deployments to AWS GovCloud for the Dept of Defense. I am Security+ Certified, and am a Certified BlackBelt in DoDAF Enterprise Architecture. I am well versed in understanding operational requirements and explaining IT solutions and architecture to people with diverse backgrounds. I also have over 20 years of Leadership skills and formal training, with strengths in Analysis, Coaching, Team Building, Public Speaking, and developing collaborative solutions.
   location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
+    # address: "2712 Broadway St"
+    postalCode: "IL 60073"
+    city: "Round Lake Beach"
     countryCode: "US"
-    region: "California"
+    region: "Illinois"
   profiles:
     - network: "Twitter"
-      username: "RHendricksCEO"
+      username: "14traits"
       url: ""
     - network: "LinkedIn"
-      username: "Richard Hendricks"
+      username: "john-e-rogers"
       url: ""
 work:
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
+  - company: "US MEPCOM"
+    position: "DevSecOps Branch Cheif"
+    website: "https://www.mepcom.army.mil"
+    startDate: "2015-11-15"
     endDate: ""
     summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
+      The United States Military Entrance Processing Command is a Major Command of the U.S. Department of Defense, which primarily screens and processes enlisted personnel applicants into the United States Armed Forces.
     highlights:
-      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
-volunteer:
-  - organization: "CoderDojo"
-    position: "Teacher"
-    website: "https://coderdojo.com/"
-    startDate: "2012-01-01"
-    endDate: "2013-01-01"
-    summary: "Global movement of free coding clubs for young people."
-    highlights:
-      - "Awarded 'Teacher of the Month'"
+      - "Refactored AWS RDS usage of the biometrics subsystem of USMIRS 1.1, saving USMEPCOM a projected cost avoidance of $369,114 annualy in the operations budget."
+      - "Lead a DevOps Team to accomplish two, first-time events for USMEPCOM in Cloud Computing. The first Government Employee deployment of a full network in the Cloud, and the Commands first Automated Deployment of an entire system and network"
+      - "Solely responsible for modifying and authoring the Infrastructure as Code (IAC) in Terraform that deployed the first fully automated deployment on-prem or in the cloud of an entire network and systems for USMEPCOM."
+# volunteer:
+#   - organization: "CoderDojo"
+#     position: "Teacher"
+#     website: "https://coderdojo.com/"
+#     startDate: "2012-01-01"
+#     endDate: "2013-01-01"
+#     summary: "Global movement of free coding clubs for young people."
+#     highlights:
+#       - "Awarded 'Teacher of the Month'"
 education:
-  - institution: "University of Oklahoma"
-    area: "Information Technology"
+  - institution: "Campbell University"
+    area: "Information Technology Security - Management"
     studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
-    gpa: "4.0"
-    courses:
-      - "DB1101 - Basic SQL"
-      - "CS2011 - Java Introduction"
+    # startDate: "2011-06-01"
+    endDate: "2017-08-01"
+    gpa: "3.3"
+    # courses:
+    #   - "DB1101 - Basic SQL"
+    #   - "CS2011 - Java Introduction"
 awards:
   - title: "Digital Compression Pioneer Award"
     date: "2014-11-01"
     awarder: "Techcrunch"
     summary: "There is no spoon."
-publications:
-  - name: "Video compression for 3d media"
-    publisher: "Hooli"
-    releaseDate: "2014-10-01"
-    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+# publications:
+#   - name: "Video compression for 3d media"
+#     publisher: "Hooli"
+#     releaseDate: "2014-10-01"
+#     website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+#     summary: "Innovative middle-out compression algorithm that changes the way we store data."
 skills:
   - name: "Web Development"
     level: "Master"
@@ -92,10 +84,18 @@ languages:
   - language: "English"
     fluency: "Native speaker"
 interests:
-  - name: "Wildlife"
+  - name: "Motorcycles"
     keywords:
-      - "Ferrets"
-      - "Unicorns"
+      - "Indian Motorcycles"
+      - "Touring"
+  - name: "Travel"
+    keywords:
+      - "Sailing"
+      - "Touring"
+  - name: "Photography"
+    keywords:
+      - "Nature Photography"
+      - "Travel Photography"
 references:
   - name: "Erlich Bachman"
     reference: >
