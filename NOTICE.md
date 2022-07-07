@@ -5,8 +5,8 @@ sitemap: false
 
 # NOTICE
 
-- this list will be replaced by the toc
-  {:toc .large-only}
+<!-- - this list will be replaced by the toc
+  {:toc .large-only} -->
 
 Copyright (c) 2021, 2033 John Rogers <https://14traits.github.io/>
 
