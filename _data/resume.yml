@@ -9,10 +9,10 @@ basics:
 #  phone: "(847) 406-0663"
   website: "https://14traits.github.io"
   summary: >
-    John hails from Kansas City MO, and is a US Marine Corps Veteran!  He has earned his degree from Campbell University.  He is a Software Engineering, currently leading a team of engineers focused on developing the DevSecOps culture within USMEPCOM. He has a demonstrated history of cloud deployments to AWS GovCloud for the Dept of Defense. He is Security+ Certified, and also a Certified BlackBelt in DoDAF Enterprise Architecture. He is well versed in understanding operational requirements and explaining IT solutions and architecture to people with diverse backgrounds. He has over 20 years of Leadership skills and formal training, with strengths in Analysis, Coaching, Team Building, Public Speaking, and developing collaborative solutions.
+    John hails from Kansas City MO, and is a US Marine Corps Veteran!  He earned his degree from Campbell University.  He is a Software Engineering, currently leading a team of engineers who are focused on developing the DevSecOps culture within USMEPCOM. He has a demonstrated history of cloud deployments to AWS GovCloud for the Dept of Defense. He is well versed in understanding operational requirements and explaining IT solutions and architecture to people with diverse backgrounds. He has over 20 years of Leadership skills and formal training, with strengths in Analysis, Coaching, Team Building, Public Speaking, and developing collaborative solutions.
   location:
     # address: "2712 Broadway St"
-    postalCode: "IL 60073"
+    # postalCode: "IL 60073"
     city: "Round Lake Beach"
     countryCode: "US"
     region: "Illinois"
@@ -32,7 +32,7 @@ work:
     summary: >
       The United States Military Entrance Processing Command is a Major Command of the U.S. Department of Defense, which primarily screens and processes enlisted personnel applicants into the United States Armed Forces.
     highlights:
-      - "Reduced the utilization of AWS RDS services on the biometrics subsystem of USMIRS 1.1, saving USMEPCOM a projected cost avoidance of $369,114 annualy in the operations budget."
+      - "Reduced the utilization of AWS RDS services on the biometrics subsystem of USMIRS 1.1, saving USMEPCOM a projected cost avoidance of $369,114 annually in the operations budget."
       - "Responsible for leading a culture change within our emerging operations division to a DevSecOps focused culture."
   - company: "USMEPCOM"
     position: "Team Lead System Development Branch"
@@ -63,11 +63,11 @@ education:
     # courses:
     #   - "DB1101 - Basic SQL"
     #   - "CS2011 - Java Introduction"
-awards:
-  - title: "Digital Compression Pioneer Award"
-    date: "2014-11-01"
-    awarder: "Techcrunch"
-    summary: "There is no spoon."
+# awards:
+#   - title: "Digital Compression Pioneer Award"
+#     date: "2014-11-01"
+#     awarder: "Techcrunch"
+#     summary: "There is no spoon."
 # publications:
 #   - name: "Video compression for 3d media"
 #     publisher: "Hooli"
@@ -75,18 +75,26 @@ awards:
 #     website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
 #     summary: "Innovative middle-out compression algorithm that changes the way we store data."
 skills:
-  - name: "Web Development"
-    level: "Master"
+  - name: "Software Engineering"
+    level: "Intermediate"
     keywords:
-      - "HTML"
-      - "CSS"
+      - "Ruby"
+      - "Ruby on Rails"
       - "Javascript"
-  - name: "Compression"
-    level: "Master"
+      - "Terraform"
+      - "Go Lang"
+  - name: "DevSecOps"
+    level: "Intermediate"
     keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
+      - "IaC"
+      - "AWS - GovCloud"
+      - "Docker"
+      - "K8's"
+  - name: "Certifications"
+    level: "master"
+    keywords:
+      - "Security+"
+      - "AWS - "
 languages:
   - language: "English"
     fluency: "Native speaker"
@@ -104,7 +112,6 @@ interests:
       - "Nature Photography"
       - "Travel Photography"
 references:
-  - name: "Erlich Bachman"
+  - name: "Tyron Merrell"
     reference: >
-      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-      Company proved that he will be a valuable addition to any company.
+      "John takes the time necessary to understand the circumstances he has to operate in and acts accordingly. His strengths are assessing situations as they are and determining a favorable path forward. As well as gaining allies and influence people. He is know for being the person to go to for his ability to solve/resolve complex problems."
