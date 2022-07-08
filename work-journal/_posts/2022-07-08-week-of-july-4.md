@@ -3,7 +3,7 @@ layout: post
 title: "Week of July 4th - 8th"
 date: 2022-07-08 10:55:13 -0500
 categories: "work-journal"
-image: /assets/img/blog/week2.png
+#image: /assets/img/blog/week2.png
 accent_image:
   background: url('/assets/img/blog/walkator-klMii3cR9iI-unsplash.jpg') center/cover
   overlay: false
