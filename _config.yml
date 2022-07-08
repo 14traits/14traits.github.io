@@ -25,7 +25,7 @@ title:                 John Rogers
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  This is a blog focused on the learnings of one developer over time.
+  This is a blog focused on the learnings of one developer, over time.
 
 # A shorter description for the sidebar.
 tagline:               Software Engineer
