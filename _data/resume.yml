@@ -25,7 +25,7 @@ basics:
       url: ""
 work:
   - company: "USMEPCOM"
-    position: "DevSecOps Branch Cheif"
+    position: "DevSecOps Branch Chief"
     website: "https://www.mepcom.army.mil"
     startDate: "2021-05-21"
     endDate: ""
@@ -76,7 +76,7 @@ education:
 #     summary: "Innovative middle-out compression algorithm that changes the way we store data."
 skills:
   - name: "Software Engineering"
-    level: "Intermediate"
+    # level: "Intermediate"
     keywords:
       - "Ruby"
       - "Ruby on Rails"
@@ -84,20 +84,20 @@ skills:
       - "Terraform"
       - "Go Lang"
   - name: "DevSecOps"
-    level: "Intermediate"
+    # level: "Intermediate"
     keywords:
       - "IaC"
       - "AWS - GovCloud"
       - "Docker"
       - "K8's"
   - name: "Certifications"
-    level: "master"
+    # level: "master"
     keywords:
       - "Security+"
       - "AWS - "
 languages:
   - language: "English"
-    fluency: "Native speaker"
+    # fluency: "Native speaker"
 interests:
   - name: "Motorcycles"
     keywords:
