@@ -5,4 +5,4 @@ sitemap: false
 cover: true
 ---
 
-Hello, my name is John and I am _US Marine Corps Veteran_. I am currently a **Software Engineer** who is currently focused on learning ruby and some other cool things with some _friends at Actualize_!
+Hello, my name is John and I am _US Marine Corps Veteran_. I make a living as a **Software Engineer** in Northern Chicagoland, I prefer to escape as much as possible by touring the back roads on my motorcycle. 
