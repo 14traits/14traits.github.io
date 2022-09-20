@@ -32,8 +32,8 @@ work:
     summary: >
       The United States Military Entrance Processing Command is a Major Command of the U.S. Department of Defense, which primarily screens and processes enlisted personnel applicants into the United States Armed Forces.
     highlights:
-      - "Reduced the utilization of AWS RDS services on the biometrics subsystem of USMIRS 1.1, saving USMEPCOM a projected cost avoidance of $369,114 annually in the operations budget."
-      - "Responsible for leading a culture change within our emerging operations division to a DevSecOps focused culture."
+      - "Reengineered biometrics databases to reduce utilization of AWS RDS services, saving USMEPCOM a projected $369,114 annually in the operations budget."
+      - "Established a DevSecOps culture in an IT department with 200 employees, transitioning from Waterfall methodology to empowering employees and implementing Agile best practices."
   - company: "USMEPCOM"
     position: "Team Lead System Development Branch"
     website: "https://www.mepcom.army.mil"
@@ -42,8 +42,32 @@ work:
     summary: >
       The United States Military Entrance Processing Command is a Major Command of the U.S. Department of Defense, which primarily screens and processes enlisted personnel applicants into the United States Armed Forces.
     highlights:
-      - "Lead a DevOps Team to accomplish two, first-time events for USMEPCOM in Cloud Computing. The first Government Employee deployment of a full network in the Cloud, and the Commands first Automated Deployment of an entire system and network"
-      - "Solely responsible for modifying and authoring the Infrastructure as Code (IAC) in Terraform that deployed the first fully automated deployment on-prem or in the cloud of an entire network and systems for USMEPCOM."
+      - "Led a DevOps Team to deploy USMEPCOM’s first full network in the Cloud as well as its first automated deployment of an entire system and network."
+      - "Refactored the Infrastructure as Code (IAC) in Terraform that deployed the first fully automated deployment on-prem or in the cloud of an entire network and systems for USMEPCOM."
+  - company: "USMEPCOM"
+    position: "Operations Analyst"
+    website: "https://www.mepcom.army.mil"
+    startDate: "2015-11-15"
+    endDate: "2019-06-15"
+    summary: >
+      The United States Military Entrance Processing Command is a Major Command of the U.S. Department of Defense, which primarily screens and processes enlisted personnel applicants into the United States Armed Forces.
+    highlights:
+      - "Led two teams of 15 business analysts through a 2-year comprehensive review of the existing candidate accession processes, identifying inefficiencies and recommending solutions that would improve the candidate experience."
+  - company: "Cape Fox Professional Services"
+    position: "Midwest Regional Traffic Safety Program Manager"
+    website: "https://www.capefoxfcg.com"
+    startDate: "2008-08-01"
+    endDate: "2015-07-01"
+    summary: >
+      The United States Military Entrance Processing Command is a Major Command of the U.S. Department of Defense, which primarily screens and processes enlisted personnel applicants into the United States Armed Forces.
+    highlights:
+      - "Increased operational capacity by 47% and product delivery by 8% while decreasing waste by 2% region-wide in 2013."
+      - "Managed a remote staff of 15 in delivering traffic safety programs across 16 states, providing training and individualized coaching, facilitating all HR processes, and resolving personnel issues."
+      - "Implemented procedure changes to regional workflow to an electronic/paperless workflow for reports and most commonly used regional forms/documents, thus reducing costs and increasing the efficiency of regional paperwork."
+      - "Created and continuously updated curriculum to be used by both classroom instructors and individual safety reps for the US Navy and Marine Corps."
+      - "Routinely presented safety training to audiences ranging from 5 - 600 service members."
+
+
 # volunteer:
 #   - organization: "CoderDojo"
 #     position: "Teacher"
