@@ -59,7 +59,7 @@ work:
     startDate: "2008-08-01"
     endDate: "2015-07-01"
     summary: >
-      Contracted service for the administering of the DoD Motor Vehicle Safety Program who's goal was to reduce deaths, injuries, and property damage caused by vehicular mishaps.
+      Contracted service for the administration of the DoD Motor Vehicle Safety Program who's goal was to reduce deaths, injuries, and property damage caused by vehicular mishaps.
     highlights:
       - "Increased operational capacity by 47% and product delivery by 8% while decreasing waste by 2% region-wide in 2013."
       - "Managed a remote staff of 15 in delivering traffic safety programs across 16 states, providing training and individualized coaching, facilitating all HR processes, and resolving personnel issues."
@@ -83,7 +83,7 @@ education:
     studyType: "Bachelor"
     # startDate: "2011-06-01"
     endDate: "2017-08-01"
-    gpa: "3.3"
+    #gpa: "3.3"
     # courses:
     #   - "DB1101 - Basic SQL"
     #   - "CS2011 - Java Introduction"
