@@ -84,6 +84,7 @@ education:
     # startDate: "2011-06-01"
     endDate: "2017-08-01"
     #gpa: "3.3"
+    gpa: ""
     # courses:
     #   - "DB1101 - Basic SQL"
     #   - "CS2011 - Java Introduction"
