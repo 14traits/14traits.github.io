@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weeks of September 19th & 26th"
-date: 2022-09-09 12:55:13 -0500
+date: 2022-09-26 12:55:13 -0500
 categories: "work-journal"
 #image: /assets/img/blog/week2.png
 accent_image:
