@@ -10,7 +10,7 @@ accent_image:
 invert_sidebar: false
 ---
 
-# Week of September 19th & 26th
+# Weeks of September 19th & 26th
 
 - **Something I am struggling with these weeks**  Absurd timelines for administrative actions, in short I am being asked to get things done in a time line that makes little to no sense. We are literally forcing things for so someone else can say it's done.  
 
