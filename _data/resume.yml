@@ -7,7 +7,7 @@ basics:
   picture: "./assets/img/240avatar.png"
   email: "john.deja.vu.rogers@gmail.com"
 #  phone: "(847) 406-0663"
-  website: "https://14traits.github.io"
+  website: "https://john-rogers.com"
   summary: >
     John hails from Kansas City MO, and is a US Marine Corps Veteran!  He earned his degree from Campbell University.  He is a Software Engineering, currently leading a team of engineers who are focused on developing the DevSecOps culture within USMEPCOM. He has a demonstrated history of cloud deployments to AWS GovCloud for the Dept of Defense. He is well versed in understanding operational requirements and explaining IT solutions and architecture to people with diverse backgrounds. He has over 20 years of Leadership skills and formal training, with strengths in Analysis, Coaching, Team Building, Public Speaking, and developing collaborative solutions.
   location:
@@ -24,6 +24,13 @@ basics:
       username: "john-e-rogers"
       url: ""
 work:
+  - company: "3 Stags, LLC"
+    position: "Software Engineer and Owner"
+    website: "https://www.3-stags.com"
+    startDate: "2023-06-01"
+    endDate: ""
+    summary: >
+      3 Stags, LLC is small veteran owned business that specializes in software engineering and performs limited consulting. With a rich legacy of experience spanning over two decades, we bring a wealth of knowledge and expertise to the table, developing cutting-edge full-stack web and mobile applications that meet the evolving needs of our clients. Our commitment to innovation extends beyond just software development; we also provide specialized consulting services in Cloud solutions (AWS), DevOps, AI & ML, and for local small businesses only tailored networking solutions. Our diverse portfolio showcases our ability to support a wide range of clients, including Non-Profits, academic institutions, businesses of all sizes, and even the US Federal Government.
   - company: "USMEPCOM"
     position: "DevSecOps Branch Chief"
     website: "https://www.mepcom.army.mil"
