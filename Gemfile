@@ -27,6 +27,7 @@ group :jekyll_plugins do
   gem "jekyll-redirect-from"
   gem "jekyll-readme-index"
   gem "jekyll-relative-links"
+  gem "jekyll-seo-tag"
   gem "jekyll-include-cache"
   gem "jekyll-compose"
   gem "jekyll-avatar"
