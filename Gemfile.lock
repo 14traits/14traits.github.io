@@ -56,6 +56,8 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-include-cache (0.2.1)
       jekyll (>= 3.7, < 5.0)
+    jekyll-optional-front-matter (0.3.2)
+      jekyll (>= 3.0, < 5.0)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
     jekyll-watch (2.2.1)
@@ -104,6 +106,7 @@ DEPENDENCIES
   jekyll-default-layout
   jekyll-feed
   jekyll-include-cache
+  jekyll-optional-front-matter
   webrick
 
 BUNDLED WITH
