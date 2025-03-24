@@ -36,6 +36,7 @@ group :jekyll_plugins do
   gem "jekyll-archives"
   gem "jekyll-mentions"
   gem "jekyll-titles-from-headings"
+  gem "jekyll-last-modified-at"
 end
 
 gem 'wdm' if Gem.win_platform?
