@@ -23,6 +23,7 @@ group :jekyll_plugins do
   gem "jekyll-default-layout"
   gem "jekyll-feed"
   gem "jekyll-optional-front-matter"
+  gem "jekyll-paginate"
   gem "jekyll-include-cache"
   gem "jekyll-compose"
   gem "jekyll-avatar"
