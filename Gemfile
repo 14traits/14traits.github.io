@@ -35,6 +35,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-archives"
   gem "jekyll-mentions"
+  gem "jekyll-titles-from-headings"
 end
 
 gem 'wdm' if Gem.win_platform?
