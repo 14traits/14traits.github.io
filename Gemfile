@@ -14,10 +14,13 @@ gem "jekyll", "~> 4.4.1"
 # Fixes `jekyll serve` in ruby 3
 gem "webrick"
 # gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
+# gem "jekyll-theme-hydejack", git: "https://github.com/hydecorp/hydejack-pro", tag: "pro/v9.2.1"
+
 
 
 group :jekyll_plugins do
   # gem "github-pages"
+  gem "jekyll-default-layout"
   gem "jekyll-include-cache"
   gem "jekyll-compose"
   gem "jekyll-avatar"
