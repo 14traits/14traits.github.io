@@ -31,6 +31,10 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-compose"
   gem "jekyll-avatar"
+  gem "jekyll-remote-theme"
+  gem "jekyll-sitemap"
+  gem "jekyll-archives"
+  gem "jekyll-mentions"
 end
 
 gem 'wdm' if Gem.win_platform?
