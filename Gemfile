@@ -12,7 +12,7 @@ gem "jekyll", "~> 3.9.2"
 
 # Fixes `jekyll serve` in ruby 3
 gem "webrick"
-gem "jekyll-theme-hydejack", git: "https://github.com/hydecorp/hydejack-pro", tag: "pro/v9.2.1"
+gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
 
 
 group :jekyll_plugins do
