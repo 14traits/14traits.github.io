@@ -37,7 +37,11 @@
   <a href="{{ project.url | relative_url }}" class="no-hover no-print-link flip-project" tabindex="-1">
     <div class="project-card-img aspect-ratio sixteen-nine flip-project-img {% unless screenshot %}fallback-img{% endunless %}">
       {% if screenshot %}
-        {% include_cached components/hy-img.html img=screenshot alt=project.title sizes=sizes width=864 height=486 %}
+        {% if project.image_light %}{% assign screenshot_class = "dark-only" %}{% else %}{% assign screenshot_class = nil %}{% endif %}
+        {% include_cached components/hy-img.html img=screenshot alt=project.title class=screenshot_class sizes=sizes width=864 height=486 %}
+        {% if project.image_light %}
+          {% include_cached components/hy-img.html img=project.image_light alt=project.title class="light-only" sizes=sizes width=864 height=486 %}
+        {% endif %}
       {% endif %}
     </div>
   </a>
