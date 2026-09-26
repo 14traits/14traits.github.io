@@ -17,6 +17,12 @@ image:
     1920w: /assets/img/projects/flavorday/map.jpg
     960w: /assets/img/projects/flavorday/map@0,5x.jpg
     480w: /assets/img/projects/flavorday/map@0,25x.jpg
+image_light:
+  path: /assets/img/projects/flavorday/map-light.jpg
+  srcset:
+    1920w: /assets/img/projects/flavorday/map-light.jpg
+    960w: /assets/img/projects/flavorday/map-light@0,5x.jpg
+    480w: /assets/img/projects/flavorday/map-light@0,25x.jpg
 links:
   - title: Link
     url: https://www.flavorday.app
@@ -26,7 +32,8 @@ sitemap: false
 Flavor Day finds the Culver's Flavor of the Day near you, without extra clicks. Every location is
 dropped on the map as a marker showing that day's custard, so you can see at a glance where to go.
 
-![Flavor Day zoomed in on a store popup with directions](/assets/img/projects/flavorday/popup.jpg)
+![Flavor Day zoomed in on a store popup with directions](/assets/img/projects/flavorday/popup-light.jpg){:.light-only}
+![Flavor Day zoomed in on a store popup with directions](/assets/img/projects/flavorday/popup.jpg){:.dark-only}
 
 ## Why the rewrite
 
@@ -44,6 +51,8 @@ Rather than patch it, I rebuilt it as a TypeScript monorepo with almost no ops t
   Milwaukee and Madison. Ingestion therefore routes through a small Caddy proxy on my home lab, fronted
   by a Cloudflare Tunnel.
 
-![The whole Flavor Day map, coast to coast](/assets/img/projects/flavorday/coverage.jpg)
+![The whole Flavor Day map, coast to coast](/assets/img/projects/flavorday/coverage-light.jpg){:.light-only}
+![The whole Flavor Day map, coast to coast](/assets/img/projects/flavorday/coverage.jpg){:.dark-only}
 
-![Flavor Day on a phone](/assets/img/projects/flavorday/mobile.jpg){:width="430"}
+![Flavor Day on a phone](/assets/img/projects/flavorday/mobile-light.jpg){:.light-only width="430"}
+![Flavor Day on a phone](/assets/img/projects/flavorday/mobile.jpg){:.dark-only width="430"}

@@ -1,2 +1,17 @@
 // Uncomment to disable dingbat icons below posts
 // hr.dingbat { display: none }
+
+// Theme-aware images: tag the light and dark variants of a screenshot with
+// `{:.light-only}` / `{:.dark-only}` and only the one matching the blog's
+// current mode is shown. Mirrors Hydejack's dark mode rules: an explicit
+// `body.dark-mode` / `body.light-mode` from the toggle wins, otherwise the OS
+// preference decides.
+.dark-only { display: none; }
+
+@media screen and (prefers-color-scheme: dark) {
+  body:not(.light-mode) .light-only { display: none; }
+  body:not(.light-mode) .dark-only { display: inline; }
+}
+
+body.dark-mode .light-only { display: none; }
+body.dark-mode .dark-only { display: inline; }
