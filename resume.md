@@ -18,6 +18,9 @@ right_column:
   - interests
 no_language_icons: false
 no_skill_icons: false
+accent_image:
+  background: url('/assets/img/resume/battle-color.jpg') center/cover
+  overlay: false
 buttons:
   print: true
   pdf: /assets/Resume.pdf
