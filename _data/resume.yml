@@ -9,7 +9,7 @@ basics:
 #  phone: "(847) 406-0663"
   website: "https://john-rogers.com"
   summary: >
-    John hails from Kansas City MO, and is a US Marine Corps Veteran!  He earned his degree from Campbell University.  He is a Software Engineering, currently leading a team of engineers who are focused on developing the DevSecOps culture within USMEPCOM. He has a demonstrated history of cloud deployments to AWS GovCloud for the Dept of Defense. He is well versed in understanding operational requirements and explaining IT solutions and architecture to people with diverse backgrounds. He has over 20 years of Leadership skills and formal training, with strengths in Analysis, Coaching, Team Building, Public Speaking, and developing collaborative solutions.
+    John is a US Marine Corps Veteran and Senior Software & Solutions Engineer at USMEPCOM, where he is the technical lead for GitLab CI/CD, AWS GovCloud deployments, and AI pilots built on AWS Bedrock. He holds a B.S. in I.T. Security and Management from Campbell University and CompTIA Security+. He builds full-stack web and iOS apps through his company, 3 Stags, LLC, and brings proven leadership in analysis, coaching, and team building, with a strength for translating business requirements into delivered technical solutions.
   location:
     # address: "2712 Broadway St"
     # postalCode: "IL 60073"
@@ -17,12 +17,15 @@ basics:
     countryCode: "US"
     region: "Illinois"
   profiles:
-    - network: "Twitter"
-      username: "14traits"
-      url: ""
     - network: "LinkedIn"
       username: "john-e-rogers"
-      url: ""
+      url: "https://www.linkedin.com/in/john-e-rogers"
+    - network: "GitHub"
+      username: "14traits"
+      url: "https://github.com/14traits"
+    - network: "Twitter"
+      username: "14traits"
+      url: "https://twitter.com/14traits"
 work:
   - company: "3 Stags, LLC"
     position: "Software Engineer and Owner"
@@ -30,106 +33,116 @@ work:
     startDate: "2023-06-01"
     endDate: ""
     summary: >
-      3 Stags, LLC is small veteran owned business that specializes in software engineering and performs limited consulting. With a rich legacy of experience spanning over two decades, we bring a wealth of knowledge and expertise to the table, developing cutting-edge full-stack web and mobile applications that meet the evolving needs of our clients. Our commitment to innovation extends beyond just software development; we also provide specialized consulting services in Cloud solutions (AWS), DevOps, AI & ML, and for local small businesses only tailored networking solutions. Our diverse portfolio showcases our ability to support a wide range of clients, including Non-Profits, academic institutions, businesses of all sizes, and even the US Federal Government.
+      3 Stags, LLC is small veteran owned business that specializes in software engineering and performs limited consulting. With a rich legacy of experience, we bring a wealth of knowledge and expertise to the table, developing cutting-edge full-stack web and mobile applications that meet the evolving needs of our clients. Our commitment to innovation extends beyond just software development; we also provide specialized consulting services in Cloud solutions (AWS), DevOps, AI & ML, and for local small businesses only tailored networking solutions. Our diverse portfolio showcases our ability to support a wide range of clients, including Non-Profits, academic institutions, businesses of all sizes, and even the US Federal Government.
   - company: "USMEPCOM"
-    position: "DevSecOps Branch Chief"
+    position: "Senior Software & Solutions Engineer"
     website: "https://www.mepcom.army.mil"
-    startDate: "2021-05-21"
+    startDate: "2024-05-01"
     endDate: ""
     summary: >
       The United States Military Entrance Processing Command is a Major Command of the U.S. Department of Defense, which primarily screens and processes enlisted personnel applicants into the United States Armed Forces.
     highlights:
-      - "Reengineered biometrics databases to reduce utilization of AWS RDS services, saving USMEPCOM a projected $369,114 annually in the operations budget."
+      - "Technical Lead for architecture, system deployment, and migration from AWS CodeCommit to a Self-Hosted GitLab instance with 40+ production repositories."
+      - "Technical Lead for the architecture and development of production GitLab Runner CI/CD pipelines, including unit tests, linting, and SAST, that deployed to AWS CodeBuild or CodePipeline jobs."
+      - "Co-authored the ARK pilot, a Human Resource Assistant Chatbot (for policy and regulation questions) powered by AWS Lambda functions and the Bedrock API, with a TypeScript SPA that stored user sessions in DynamoDB."
+      - "Technical Lead hosting bi-monthly collaboration sessions with our AWS Vendor Team."
+  - company: "USMEPCOM"
+    position: "DevSecOps Branch Chief"
+    website: "https://www.mepcom.army.mil"
+    startDate: "2021-05-21"
+    endDate: "2024-03-31"
+    summary: >
+      The United States Military Entrance Processing Command is a Major Command of the U.S. Department of Defense, which primarily screens and processes enlisted personnel applicants into the United States Armed Forces.
+    highlights:
+      - "Reengineered cloud database services in AWS RDS to reduce over-provisioning based on system performance metrics, saving USMEPCOM $443,198 annually in their operations budget."
+      - "Developed and maintained multiple CI/CD pipelines that automated deployment and delivery of networks, systems, and web applications in a Secure Cloud Computing Architecture compliant with DoD CC SRG and DISA requirements."
       - "Established a DevSecOps culture in an IT department with 200 employees, transitioning from Waterfall methodology to empowering employees and implementing Agile best practices."
   - company: "USMEPCOM"
-    position: "Team Lead System Development Branch"
+    position: "System Development Team Lead"
     website: "https://www.mepcom.army.mil"
-    startDate: "2019-06-15"
+    startDate: "2019-07-01"
     endDate: "2021-05-20"
     summary: >
       The United States Military Entrance Processing Command is a Major Command of the U.S. Department of Defense, which primarily screens and processes enlisted personnel applicants into the United States Armed Forces.
     highlights:
-      - "Led a DevOps Team to deploy USMEPCOM’s first full network in the Cloud as well as its first automated deployment of an entire system and network."
-      - "Refactored the Infrastructure as Code (IAC) in Terraform that deployed the first fully automated deployment on-prem or in the cloud of an entire network and systems for USMEPCOM."
+      - "Led a DevOps Team that deployed USMEPCOM’s first entire network in the AWS GovCloud."
+      - "Designed and developed Infrastructure as Code (IaC) in Terraform to deploy the first fully automated on-prem or cloud deployment of an entire network and systems for USMEPCOM."
   - company: "USMEPCOM"
-    position: "Operations Analyst"
+    position: "Analyst"
     website: "https://www.mepcom.army.mil"
     startDate: "2015-11-15"
-    endDate: "2019-06-15"
+    endDate: "2019-07-01"
     summary: >
       The United States Military Entrance Processing Command is a Major Command of the U.S. Department of Defense, which primarily screens and processes enlisted personnel applicants into the United States Armed Forces.
     highlights:
-      - "Led two teams of 15 business analysts through a 2-year comprehensive review of the existing candidate accession processes, identifying inefficiencies and recommending solutions that would improve the candidate experience."
-  - company: "Cape Fox Professional Services"
-    position: "Midwest Regional Traffic Safety Program Manager"
-    website: "https://www.capefoxfcg.com"
-    startDate: "2008-08-01"
-    endDate: "2015-07-01"
-    summary: >
-      Contracted service for the administration of the DoD Motor Vehicle Safety Program who's goal was to reduce deaths, injuries, and property damage caused by vehicular mishaps.
-    highlights:
-      - "Increased operational capacity by 47% and product delivery by 8% while decreasing waste by 2% region-wide in 2013."
-      - "Managed a remote staff of 15 in delivering traffic safety programs across 16 states, providing training and individualized coaching, facilitating all HR processes, and resolving personnel issues."
-      - "Implemented procedure changes to regional workflow to an electronic/paperless workflow for reports and most commonly used regional forms/documents, thus reducing costs and increasing the efficiency of regional paperwork."
-      - "Created and continuously updated curriculum to be used by both classroom instructors and individual safety reps for the US Navy and Marine Corps."
-      - "Routinely presented safety training to audiences ranging from 5 - 600 service members."
+      - "Led multiple teams of business analysts through a 2-year comprehensive review of the existing candidate accession processes, identifying inefficiencies and recommending solutions to improve the candidate experience."
+  # Archived
+  # - company: "Cape Fox Professional Services"
+  #   position: "Midwest Regional Traffic Safety Program Manager"
+  #   website: "https://www.capefoxfcg.com"
+  #   startDate: "2008-08-01"
+  #   endDate: "2015-07-01"
+  #   summary: >
+  #     Contracted service for the administration of the DoD Motor Vehicle Safety Program who's goal was to reduce deaths, injuries, and property damage caused by vehicular mishaps.
+  #   highlights:
+  #     - "Increased operational capacity by 47% and product delivery by 8% while decreasing waste by 2% region-wide in 2013."
+  #     - "Managed a remote staff of 15 in delivering traffic safety programs across 16 states, providing training and individualized coaching, facilitating all HR processes, and resolving personnel issues."
+  #     - "Implemented procedure changes to regional workflow to an electronic/paperless workflow for reports and most commonly used regional forms/documents, thus reducing costs and increasing the efficiency of regional paperwork."
+  #     - "Created and continuously updated curriculum to be used by both classroom instructors and individual safety reps for the US Navy and Marine Corps."
+  #     - "Routinely presented safety training to audiences ranging from 5 - 600 service members."
 
-
-# volunteer:
-#   - organization: "CoderDojo"
-#     position: "Teacher"
-#     website: "https://coderdojo.com/"
-#     startDate: "2012-01-01"
-#     endDate: "2013-01-01"
-#     summary: "Global movement of free coding clubs for young people."
-#     highlights:
-#       - "Awarded 'Teacher of the Month'"
 education:
-  - institution: "Campbell University"
-    area: "Information Technology Security - Management"
-    studyType: "Bachelor"
-    # startDate: "2011-06-01"
-    endDate: "2017-08-01"
-    #gpa: "3.3"
+  - institution: "Actualize Coding Bootcamp"
+    area: "Full-Stack Web Development"
+    studyType: "Certificate"
+    endDate: "2022-01-01"
     gpa: ""
-    # courses:
-    #   - "DB1101 - Basic SQL"
-    #   - "CS2011 - Java Introduction"
-# awards:
-#   - title: "Digital Compression Pioneer Award"
-#     date: "2014-11-01"
-#     awarder: "Techcrunch"
-#     summary: "There is no spoon."
-# publications:
-#   - name: "Video compression for 3d media"
-#     publisher: "Hooli"
-#     releaseDate: "2014-10-01"
-#     website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-#     summary: "Innovative middle-out compression algorithm that changes the way we store data."
+  - institution: "DoD Civilian Emerging Leadership Program"
+    area: "Leadership"
+    studyType: "Certificate"
+    endDate: "2020-01-01"
+    gpa: ""
+  - institution: "Campbell University"
+    area: "I.T. Security and Management"
+    studyType: "Bachelor of Science"
+    endDate: "2017-08-01"
+    gpa: ""
+  - institution: "Army Management Staff College"
+    area: "Leadership"
+    studyType: "Intermediate Course"
+    endDate: "2017-01-01"
+    gpa: ""
 skills:
   - name: "Software Engineering"
-    # level: "Intermediate"
     keywords:
       - "Ruby"
       - "Ruby on Rails"
-      - "Javascript"
+      - "TypeScript"
+      - "React"
+      - "GraphQL"
+      - "Go"
+      - "Swift"
       - "Terraform"
-      - "Go Lang"
-  - name: "DevSecOps"
-    # level: "Intermediate"
+      - "Postgres"
+  - name: "Site Reliability Engineering"
     keywords:
       - "IaC"
       - "AWS - GovCloud"
+      - "Cloudflare"
       - "Docker"
       - "K8's"
+      - "GitLab"
+      - "GitHub"
+      - "DoD CC SRG"
+      - "FedRAMP"
+      - "HIPAA"
   - name: "Certifications"
-    # level: "master"
     keywords:
       - "Security+"
-      - "AWS - "
-languages:
-  - language: "English"
-    # fluency: "Native speaker"
+      - "Enterprise Architecture (DoDAF)"
+# languages:
+#   - language: "English"
+#     # fluency: "Native speaker"
 interests:
   - name: "Motorcycles"
     keywords:
