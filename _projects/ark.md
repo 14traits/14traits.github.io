@@ -9,7 +9,7 @@ description: |
  - Deployed in AWS GovCloud at DoD Impact Level 4 (IL4).
  - Infrastructure and configuration written in Terraform and Ansible.
 
-date: "05-11-2026"
+date: "13-10-2026"
 image:
   path: /assets/img/projects/ark/hero.jpg
   srcset:
