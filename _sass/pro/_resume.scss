@@ -173,6 +173,8 @@
 
   @media print {
     .screen-only { display: none; }
+    // Don't print the raw URL after every link; it crowds the layout.
+    a:not(.no-print-link)::after { content: none; }
     h2 {
       page-break-after: avoid;
       break-after: avoid-page;

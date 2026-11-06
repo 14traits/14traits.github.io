@@ -2,8 +2,12 @@
 layout: project
 title: "USMIRS 1.1"
 caption: Applicant Processing System for the Dept of Defense.
-description: >
-  USMIRS 1.1 is a system of interconnected services that enables the Mission of USMEPCOM. The tech stack consists of Ruby, Ruby on Rails, React, and a Postgress DB. It lives in AWS GovCloud, and most of my contributions to the project were in the DevSecOps world creating a CI/CD process and editing IAC (Infrastructure as Code). During USMIRS 1.1 final stages of deployment I lead a team of Civil Service engineers to deploy a Biometrics Solution that could not be done by our contract team. We successfully deployed the USMEPCOM's first and only (so far) Gov lead/developed cloud deployment to AWS. I was also the only engineer on the team who could read/write terraform code, so I solely refactored and developed missing parts of IAC to accept entirely different Server OS platform.
+description: |
+ - Agile software project enabling the mission of USMEPCOM: a system of interconnected services for processing US military applicants.
+ - Built with Ruby, Ruby on Rails, React, TypeScript, and Postgres.
+ - Deployed in AWS GovCloud at DoD Impact Level 4 (IL4).
+ - Infrastructure and configuration written in Terraform and Ansible.
+ - Automated delivery to lower environments with GitLab Runners to AWS CodeBuild and CodePipeline.
 date: "15-02-2020"
 image:
   path: /assets/img/projects/usmirs/hero.jpg
@@ -16,3 +20,16 @@ links:
     url: https://www.mepcom.army.mil
 sitemap: false
 ---
+
+USMIRS 1.1 is a system of interconnected services that enables the mission of USMEPCOM. It lives in
+AWS GovCloud, and most of my contributions were in the DevSecOps world: building the CI/CD process and
+editing the Infrastructure as Code (IaC).
+
+## The Biometrics deployment
+
+During the final stages of USMIRS 1.1, I led a team of Civil Service engineers to deploy a Biometrics
+Solution that our contract team could not deliver. It became USMEPCOM's first, and so far only,
+government-led and government-developed cloud deployment to AWS.
+
+- I was the only engineer on the team who could read and write Terraform, so I solely refactored the IaC
+  and developed the missing parts so it could target an entirely different server OS platform.

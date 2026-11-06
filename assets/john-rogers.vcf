@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Rogers;John;;;
+FN:John Rogers
+TITLE:Software Engineer
+ORG:3 Stags, LLC
+EMAIL;TYPE=INTERNET:john.deja.vu.rogers@gmail.com
+URL:https://john-rogers.com
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/john-e-rogers
+URL;TYPE=GitHub:https://github.com/14traits
+ADR;TYPE=WORK:;;;Round Lake Beach;IL;;US
+END:VCARD
